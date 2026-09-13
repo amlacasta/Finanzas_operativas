@@ -1,0 +1,162 @@
+[
+  {
+    "check": "Nueve notebooks presentes",
+    "passed": true,
+    "detail": "9"
+  },
+  {
+    "check": "00_configuracion_y_datos.ipynb ejecutado",
+    "passed": true,
+    "detail": "4 celdas de código"
+  },
+  {
+    "check": "00_configuracion_y_datos.ipynb sin errores",
+    "passed": true,
+    "detail": "salidas guardadas"
+  },
+  {
+    "check": "01_calidad_y_modelo_financiero.ipynb ejecutado",
+    "passed": true,
+    "detail": "3 celdas de código"
+  },
+  {
+    "check": "01_calidad_y_modelo_financiero.ipynb sin errores",
+    "passed": true,
+    "detail": "salidas guardadas"
+  },
+  {
+    "check": "02_pyg_rentabilidad_global.ipynb ejecutado",
+    "passed": true,
+    "detail": "4 celdas de código"
+  },
+  {
+    "check": "02_pyg_rentabilidad_global.ipynb sin errores",
+    "passed": true,
+    "detail": "salidas guardadas"
+  },
+  {
+    "check": "03_rentabilidad_rutas_buques.ipynb ejecutado",
+    "passed": true,
+    "detail": "4 celdas de código"
+  },
+  {
+    "check": "03_rentabilidad_rutas_buques.ipynb sin errores",
+    "passed": true,
+    "detail": "salidas guardadas"
+  },
+  {
+    "check": "04_presupuesto_y_desviaciones.ipynb ejecutado",
+    "passed": true,
+    "detail": "4 celdas de código"
+  },
+  {
+    "check": "04_presupuesto_y_desviaciones.ipynb sin errores",
+    "passed": true,
+    "detail": "salidas guardadas"
+  },
+  {
+    "check": "05_unit_economics.ipynb ejecutado",
+    "passed": true,
+    "detail": "3 celdas de código"
+  },
+  {
+    "check": "05_unit_economics.ipynb sin errores",
+    "passed": true,
+    "detail": "salidas guardadas"
+  },
+  {
+    "check": "06_caja_y_capital_circulante.ipynb ejecutado",
+    "passed": true,
+    "detail": "4 celdas de código"
+  },
+  {
+    "check": "06_caja_y_capital_circulante.ipynb sin errores",
+    "passed": true,
+    "detail": "salidas guardadas"
+  },
+  {
+    "check": "07_escenarios_y_sensibilidad.ipynb ejecutado",
+    "passed": true,
+    "detail": "3 celdas de código"
+  },
+  {
+    "check": "07_escenarios_y_sensibilidad.ipynb sin errores",
+    "passed": true,
+    "detail": "salidas guardadas"
+  },
+  {
+    "check": "08_inversiones_integracion_y_decision.ipynb ejecutado",
+    "passed": true,
+    "detail": "4 celdas de código"
+  },
+  {
+    "check": "08_inversiones_integracion_y_decision.ipynb sin errores",
+    "passed": true,
+    "detail": "salidas guardadas"
+  },
+  {
+    "check": "EBITDA reconciliado",
+    "passed": true,
+    "detail": "error máximo 0.000000 €"
+  },
+  {
+    "check": "Clave mes-ruta única",
+    "passed": true,
+    "detail": "252 filas"
+  },
+  {
+    "check": "Ocupación en rango",
+    "passed": true,
+    "detail": "38.0%–96.0%"
+  },
+  {
+    "check": "Ingresos resumen",
+    "passed": true,
+    "detail": "574106484.26 €"
+  },
+  {
+    "check": "EBITDA resumen",
+    "passed": true,
+    "detail": "39584687.68 €"
+  },
+  {
+    "check": "Existe dashboard_finanzas_operativas.html",
+    "passed": true,
+    "detail": "2879613 bytes"
+  },
+  {
+    "check": "Existe simulador_financiero_escenarios.html",
+    "passed": true,
+    "detail": "6534 bytes"
+  },
+  {
+    "check": "Existe Dosier_Proyecto_5_Finanzas_Operativas_Levante_Ferries.docx",
+    "passed": true,
+    "detail": "591061 bytes"
+  },
+  {
+    "check": "Existe Dosier_Proyecto_5_Finanzas_Operativas_Levante_Ferries.pdf",
+    "passed": true,
+    "detail": "1075644 bytes"
+  },
+  {
+    "check": "Dashboard offline autocontenido",
+    "passed": true,
+    "detail": "sin CDN"
+  },
+  {
+    "check": "Simulador autocontenido",
+    "passed": true,
+    "detail": "sin dependencias externas"
+  },
+  {
+    "check": "Sin secretos reconocibles en HTML",
+    "passed": true,
+    "detail": "escaneo básico"
+  },
+  {
+    "check": "DOCX estructuralmente válido",
+    "passed": true,
+    "detail": "paquete OOXML íntegro"
+  }
+]
