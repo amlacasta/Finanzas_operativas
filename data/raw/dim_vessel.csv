@@ -1,0 +1,6 @@
+vessel_id,vessel_name,vessel_type,pax_capacity,vehicle_capacity,build_year,fuel_efficiency_index
+V01,Levante Star,Fast Ferry,820,210,2019,0.96
+V02,Marina Azul,Ferry,1260,330,2016,0.91
+V03,Costa Dénia,Fast Ferry,900,250,2021,0.98
+V04,Mediterráneo,Ro-Pax,1480,410,2014,0.88
+V05,Balear Express,Ro-Pax,1320,360,2018,0.93
