@@ -1,0 +1,5 @@
+check,passed,detail
+Clave mes-ruta única,True,252 combinaciones esperadas
+Sin nulos críticos,True,Campos financieros completos
+EBITDA reconcilia,True,Ingresos - variable - fijo
+Ocupación válida,True,Rango 0–100%
