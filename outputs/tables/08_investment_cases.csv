@@ -1,0 +1,4 @@
+initiative,capex,annual_cashflow,life_years,npv,irr,payback_years,risk_score,decision
+Optimización energética de flota,6200000,1380000,8,1582072.495891809,0.149632199399373,4.492753623188406,1.1,Priorizar
+Electrificación en puerto,4800000,880000,10,973986.291382733,0.12870036925664374,5.454545454545454,1.7,Priorizar
+Revenue management avanzado,1450000,610000,5,953791.668165341,0.3128045596005671,2.377049180327869,0.4,Priorizar
