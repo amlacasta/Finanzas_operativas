@@ -1,0 +1,56 @@
+[
+  {
+    "notebook": "00_configuracion_y_datos.ipynb",
+    "status": "passed",
+    "seconds": 1.14,
+    "error": ""
+  },
+  {
+    "notebook": "01_calidad_y_modelo_financiero.ipynb",
+    "status": "passed",
+    "seconds": 0.02,
+    "error": ""
+  },
+  {
+    "notebook": "02_pyg_rentabilidad_global.ipynb",
+    "status": "passed",
+    "seconds": 0.59,
+    "error": ""
+  },
+  {
+    "notebook": "03_rentabilidad_rutas_buques.ipynb",
+    "status": "passed",
+    "seconds": 0.27,
+    "error": ""
+  },
+  {
+    "notebook": "04_presupuesto_y_desviaciones.ipynb",
+    "status": "passed",
+    "seconds": 0.15,
+    "error": ""
+  },
+  {
+    "notebook": "05_unit_economics.ipynb",
+    "status": "passed",
+    "seconds": 0.22,
+    "error": ""
+  },
+  {
+    "notebook": "06_caja_y_capital_circulante.ipynb",
+    "status": "passed",
+    "seconds": 0.32,
+    "error": ""
+  },
+  {
+    "notebook": "07_escenarios_y_sensibilidad.ipynb",
+    "status": "passed",
+    "seconds": 0.27,
+    "error": ""
+  },
+  {
+    "notebook": "08_inversiones_integracion_y_decision.ipynb",
+    "status": "passed",
+    "seconds": 0.03,
+    "error": ""
+  }
+]
