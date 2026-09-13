@@ -1,0 +1,6 @@
+table,grain,role
+fact_finance_actual,mes × ruta,real P&L y volumen
+fact_finance_budget,mes × ruta,plan y desviaciones
+fact_cashflow_monthly,mes,caja y circulante
+dim_route,ruta,geografía/distancia
+dim_vessel,buque,capacidad/eficiencia
