@@ -1,0 +1,11 @@
+field,business_name,unit,definition
+revenue,Ingresos totales,EUR,Pasaje + vehículos + ancillary + freight
+contribution,Margen de contribución,EUR,Ingresos - costes variables
+ebitda,EBITDA operativo,EUR,Margen de contribución - costes fijos asignados
+ebitda_margin,Margen EBITDA,%,EBITDA / ingresos
+break_even_occupancy,Ocupación de equilibrio,%,Ocupación actual × coste total / ingresos
+revenue_per_sailing,Ingreso por salida,EUR/salida,Ingresos / salidas
+cost_per_available_seat_nm,CASK marítimo,EUR/asiento-mn,Coste total / asiento-milla náutica disponible
+revenue_per_available_seat_nm,RASK marítimo,EUR/asiento-mn,Ingresos / asiento-milla náutica disponible
+operating_cash_flow,Flujo de caja operativo,EUR,EBITDA - variación NWC - impuestos - intereses
+free_cash_flow,Flujo de caja libre,EUR,Caja operativa - capex de mantenimiento
