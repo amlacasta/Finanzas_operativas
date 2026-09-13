@@ -8,7 +8,7 @@
 
 Proyecto end-to-end de control financiero para una naviera ficticia. Conecta operación, demanda, pricing y estructura de costes con rentabilidad, caja, riesgo e inversión para convertir datos operativos en decisiones de negocio.
 
-> **Nota:** Levante Ferries es una empresa ficticia. Todos los datos son sintéticos y reproducibles; no representan a Baleària ni a ninguna otra compañía real.
+> **Nota:** Levante Ferries es una empresa ficticia. Todos los datos son sintéticos y reproducibles; no representan a ninguna otra compañía real.
 
 ## Experiencia interactiva
 
